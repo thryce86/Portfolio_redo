@@ -76,37 +76,40 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Flint Hill",
+        "title": "Lab Technician",
+        "years": "LIMS",
         "mainTech": [
-          "Angular 8/9/10"
+          
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+        
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
+        "company": "KSB ",
+        "title": "Founder",
         "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+         
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Wasnt in tech"
+    
+        ]
+      },
+
+
+
+      {
+        "company": "Lowes",
+        "title": "Customer Service Associate",
+        "years": "",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+        
         ]
       }
     ]

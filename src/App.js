@@ -81,6 +81,8 @@ class App extends Component {
   render() {
     return (
       <Router>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></link>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></link>
         <Header sharedData={this.state.sharedData.basic_info} />
         <Switch>
           <Route exact path="/">
