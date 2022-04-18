@@ -9,7 +9,7 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
+          "name": "linkedIn",
           "url": "https://www.instagram.com",
           "class": "fab fa-instagram"
         }
@@ -46,9 +46,10 @@
           "class": "devicon-javascript-plain",
           "level": "70"
         },
-    
+
    
-      
+
+
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
