@@ -41,7 +41,7 @@ class Header extends Component {
         
       
         
-        <a href="https://github.com/codefellows/cra-template-react-portfolio" target="_blank" rel="noreferrer" className="github-corner" aria-label="View source on GitHub">
+        <a href="https://github.com/thryce86/data-structures-and-algorithms" target="_blank" rel="noreferrer" className="github-corner" aria-label="View source on GitHub">
           
           
           
@@ -69,7 +69,7 @@ class Header extends Component {
             <Switch 
               checked={this.state.checked}
               onChange={this.onThemeSwitchChange}
-              offColor="#baaa80"
+              offColor="#353535"
               onColor="#353535"
               className="react-switch mx-auto"
               width={90}
